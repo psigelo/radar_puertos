@@ -1,0 +1,9 @@
+primero hacer virtualenv python 3 y correr el requirements.txt
+
+ejecutar: sudo apt-get install libatlas-base-dev
+segundo descargar:
+
+git clone https://github.com/acconeer/acconeer-python-exploration.git
+
+entrar  y ejecutar python setup.py develop
+

@@ -1,0 +1,12 @@
+setuptools
+packaging
+wheel
+scipy
+pyserial==3.5
+matplotlib==3.4.1
+h5py
+Flask
+pyyaml
+attrs
+docutils
+numpy==1.20
