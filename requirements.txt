@@ -10,3 +10,4 @@ pyyaml
 attrs
 docutils
 numpy==1.20
+tornado
